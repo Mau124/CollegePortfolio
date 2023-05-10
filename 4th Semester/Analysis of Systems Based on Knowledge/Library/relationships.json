@@ -1,0 +1,37 @@
+{
+      "Enfermedad":
+      [
+            "Depresion"
+      ],
+      "SintomaFuerte":
+      [
+            {"Suicida": "Depresion"},
+            {"CambiosRepentinosHumor": "Bipolar"}
+      ],
+      "SintomaDebil": 
+      [
+            {"BajaAutoestima": "Depresion"},
+            {"NoOptimista": "Depresion"},
+            {"Culpable": "Depresion"},
+            {"Solo": "Depresion"},
+            {"ExcesivaPreocupacion": "Ansiedad"},
+            {"Peligro": "Ansiedad"},
+            {"SinDormir": "Ansiedad"},
+            {"FaltaConcentracion": "Ansiedad"},
+            {"Inquieto": "Ansiedad"},
+            {"Inquieto": "ADHD"},
+            {"HablasRapido": "ADHD"},
+            {"ActuasSinPensar": "ADHD"},
+            {"Olvidadizo": "ADHD"},
+            {"Desorganizado": "ADHD"},   
+            {"SinSentidoPeligro": "ADHD"},
+            {"CambiosHumor": "Bipolar"},
+            {"EpisodioManiaco": "Bipolar"},
+            {"HablasRapido": "Bipolar"},
+            {"SinSentidoPeligro": "Bipolar"}
+      ],
+      "Tratamiento":
+      [
+
+      ]
+}

@@ -1,0 +1,10 @@
+pickable
+Llave
+Llave de tu cuarto
+usar
+usa
+abre
+abrir
+STOP
+deja..intento... usar la llave
+

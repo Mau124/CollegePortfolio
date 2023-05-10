@@ -1,0 +1,6 @@
+Sala de estar
+Es una humilde habitacion, quizas una de las mas vacias de toda la 
+casa, solo se encuentra una lampara, pero es acogedora.
+STOP
+0
+lampara.txt

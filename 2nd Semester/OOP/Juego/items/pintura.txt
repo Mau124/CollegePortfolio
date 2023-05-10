@@ -1,0 +1,8 @@
+static
+Pintura
+Pintura de ti mismo
+pinta
+pintar
+STOP
+Pintando...
+Pintando...

@@ -1,0 +1,10 @@
+Nuevamente te encuentras en el taller, donde los movimientos del misterioso 
+sujeto parecian llevarte. En ese momento sientes que alguien pasa corriendo 
+a tu espalda y se dirige a la cocina. De pronto escuchas ruidos provenientes 
+de esa habitacion. 
+
+El sujeto misterioso se encuentra acorralado.
+STOP
+0
+Taller
+none

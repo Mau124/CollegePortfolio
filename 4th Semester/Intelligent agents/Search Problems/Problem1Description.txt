@@ -1,0 +1,7 @@
+Missionaries and Cannibals
+
+Three missionaries and three canibals are on one side of a river, which can be
+crossed by a boat that can carry one or two people. The problem is to find a 
+way to get all six people across, so that at no time will the number of cannibals
+exceed the number of missionaries on eiter side of the river, if there are
+missionaries on that side. 

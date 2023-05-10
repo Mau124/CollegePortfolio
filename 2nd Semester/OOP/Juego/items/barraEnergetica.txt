@@ -1,0 +1,13 @@
+consumible
+Barra Energetica
+Barra energetica de avena que sabe bien feo, mejor tirala
+comer
+come
+degusta
+degustar
+consumir
+consume
+STOP
+1
+*Vomitaste la barra energetica*
+

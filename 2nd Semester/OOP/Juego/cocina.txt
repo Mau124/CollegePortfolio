@@ -1,0 +1,11 @@
+Cocina
+En la cocina se encuentra una gran ventana y una mesa muy modesta.
+Es un cuarto muy oscuro a comparacion de los demas, sueles pasar
+muy poco tiempo en esta habitacion.
+STOP
+0
+cuchillo.txt
+llave.txt
+manzana.txt
+barraEnergetica.txt
+cadenaMetalica.txt

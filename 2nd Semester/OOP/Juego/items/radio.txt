@@ -1,0 +1,11 @@
+pickable
+Radio
+Radio de bolsillo
+usar
+usa
+escuchar
+escucha
+interactuar
+interactua
+STOP
+Escuchando radio...

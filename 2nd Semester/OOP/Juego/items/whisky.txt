@@ -1,0 +1,10 @@
+consumible
+Whisky
+Botella casi vacia de whisky
+beber
+bebe
+consumir
+consume
+STOP
+1
+tomando whisky...

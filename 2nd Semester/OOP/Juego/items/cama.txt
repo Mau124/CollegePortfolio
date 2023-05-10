@@ -1,0 +1,12 @@
+static
+Cama
+Tu deliciosa cama, pero tienes que terminar de pintar
+dormir
+duerme
+usar
+usa
+recuestate
+recostarse
+STOP
+No puedes dormir...
+No puedes dormir...

@@ -1,0 +1,11 @@
+Taller
+Es un amplio salon, en el, solo se encuentra una mesa y tu caballete para pintar, 
+del cual se sostiene la pintura. Este lugar tiene todo lo necesario para que
+pintes.
+STOP
+0
+pintura.txt
+mesa.txt
+whisky.txt
+radio.txt
+pipa.txt

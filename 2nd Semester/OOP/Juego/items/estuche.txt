@@ -1,0 +1,11 @@
+pickable
+Estuche
+Estuche de pinceles viejo, pero a la moda
+usar
+usa
+abrir
+abre
+inspecciona
+inspeccionar
+STOP
+huele bien feo el estuche

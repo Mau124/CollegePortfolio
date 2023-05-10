@@ -1,0 +1,4 @@
+Labyrinth
+
+From an initial position, a target position and a labyrinth, find a path
+path from the initial position to the target position.

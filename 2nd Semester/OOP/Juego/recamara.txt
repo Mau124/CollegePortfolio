@@ -1,0 +1,12 @@
+Recamara
+En tu sencilla recamara, solo hay dos muebles. 
+Tu cama y tu mesa. No tiene ventana y los muros estan 
+algo desgastados.
+STOP
+1
+Llave
+libro.txt
+lapiz.txt
+estuche.txt
+mesita.txt
+cama.txt

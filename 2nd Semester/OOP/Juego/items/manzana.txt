@@ -1,0 +1,13 @@
+consumible
+Manzana
+Manzana roja con limonsito, esta buenasa
+comer
+come 
+degustar
+degusta
+disfrutar
+consumir
+consume
+STOP
+1
+QUE RICA MANZANA, QUIERO OTRAAAA

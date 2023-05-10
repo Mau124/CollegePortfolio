@@ -1,0 +1,108 @@
+A es triangulo: False
+A no es triangulo: True
+
+A es cuadrado: True
+A no es cuadrado: False
+
+A es pentagono: True
+A no es pentagono: False
+
+A es chico: True
+A no es chico: False
+
+A es mediano: True
+A no es mediano: False
+
+A es grande: False
+A no es grande: True
+
+B es triangulo: False
+B no es triangulo: True
+
+B es cuadrado: True
+B no es cuadrado: False
+
+B es pentagono: True
+B no es pentagono: False
+
+B es chico: True
+B no es chico: False
+
+B es mediano: True
+B no es mediano: False
+
+B es grande: False
+B no es grande: True
+
+C es triangulo: False
+C no es triangulo: True
+
+C es cuadrado: True
+C no es cuadrado: False
+
+C es pentagono: True
+C no es pentagono: False
+
+C es chico: True
+C no es chico: False
+
+C es mediano: False
+C no es mediano: True
+
+C es grande: True
+C no es grande: False
+
+D es triangulo: True
+D no es triangulo: False
+
+D es cuadrado: True
+D no es cuadrado: False
+
+D es pentagono: False
+D no es pentagono: True
+
+D es chico: False
+D no es chico: True
+
+D es mediano: True
+D no es mediano: False
+
+D es grande: True
+D no es grande: False
+
+E es triangulo: True
+E no es triangulo: False
+
+E es cuadrado: True
+E no es cuadrado: False
+
+E es pentagono: False
+E no es pentagono: True
+
+E es chico: False
+E no es chico: True
+
+E es mediano: True
+E no es mediano: False
+
+E es grande: True
+E no es grande: False
+
+F es triangulo: True
+F no es triangulo: True
+
+F es cuadrado: True
+F no es cuadrado: False
+
+F es pentagono: True
+F no es pentagono: True
+
+F es chico: True
+F no es chico: True
+
+F es mediano: True
+F no es mediano: True
+
+F es grande: True
+F no es grande: True
+

@@ -1,0 +1,4 @@
+Join the points
+
+The problem is to find the shortes route that connects all the points without
+passing two times for the same point and making a closed figure. 

@@ -1,0 +1,9 @@
+pickable
+Pipa
+Pipa con mota
+usar
+usa
+fumar
+fuma
+STOP
+*inhalar...* *exhalar...* ufff

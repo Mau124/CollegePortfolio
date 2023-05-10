@@ -1,0 +1,4 @@
+N Queen Problem
+
+This is the problem of placin N chess queens on an NxN chessboard so that no
+two queens attack each other. 

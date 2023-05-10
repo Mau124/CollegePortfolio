@@ -1,0 +1,4 @@
+norte
+este
+oeste
+sur

@@ -1,0 +1,12 @@
+pickable
+Lapiz
+Lapiz del numero 2, perfecto para hacer un examen
+usar
+usa
+dibuja
+dibujar
+rayar
+raya
+inspirarse
+STOP
+*dibujaste una carita feliz en la pared*

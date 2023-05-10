@@ -1,0 +1,11 @@
+pickable
+Libro
+Libro de mobidic
+leer
+lee
+abrir
+abre
+usar
+usa
+STOP
+no tienes tiempo para leer este libro...

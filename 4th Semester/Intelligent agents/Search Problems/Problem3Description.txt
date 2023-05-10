@@ -1,0 +1,8 @@
+Jar Problem
+
+Imagine that you have three jars with capacities A, B and C liters (integer
+numbers ) such as A > B > C and A is even. Initially, the bigger jar is full and
+the other two are empty. The goal is to distribute the initial content between
+the bigger two jars. For example, for the problem A = 8, B = 5, and C = 3, 
+initially there are 8 liters in the jar A, and the rest are empty. Then, at the
+end, the jars A and B will have 4 liters each with C empty. 

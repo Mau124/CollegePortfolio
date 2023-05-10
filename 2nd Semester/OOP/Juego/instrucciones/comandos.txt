@@ -1,0 +1,5 @@
+ayuda
+help
+salir
+exit
+buscar

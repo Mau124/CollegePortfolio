@@ -1,0 +1,14 @@
+pickable
+Cadena
+Cadena metalica para cerrar tu taller
+usar
+usa
+golpear
+golpea
+atacar
+ataca
+pelea
+pelear
+machetear
+STOP
+no sirve para nada la cadena

@@ -1,0 +1,15 @@
+pickable
+Cuchillo
+Cuchillo de chef profesional japones marca Xiaomi
+usar
+usa
+clavar
+clava
+golpear
+golpea
+navajea
+navajear
+cortar
+corta
+STOP
+*que rayos quieres hacer con el cuchillo?*

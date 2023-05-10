@@ -1,0 +1,12 @@
+Estas dispuesto a golpear al invasor sin importar quien o que fuera, 
+pero no encuentras a nadie en la habitacion.  
+La desesperacion comienza a elevarte el pulso y agitar tu respiracion,  
+no tienes control sobre la situacion. 
+
+El sujeto misterioso debe estar  escondido en la cocina, pero por mas
+que buscas en las oscuras esquinas no logras ver nada...
+Busca mas...
+STOP
+0
+Cocina
+none

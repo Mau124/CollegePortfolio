@@ -1,0 +1,13 @@
+Triangle
+
+Consider the next triangle:
+
+      *
+    /   \
+   *     *
+  /       \ 
+ *----*----*
+
+ Suppose you can write a number in each * symbol from 1-6. Your task is to find
+ a way in which each side of the triangle sums up 10 and you number is 
+ repeated. 

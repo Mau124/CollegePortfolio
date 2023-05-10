@@ -1,0 +1,5 @@
+8-puzzle solver
+
+An 8 puzzle is a simple game consisting of a 3x3 grid. One of the squares is
+empty. You can move the tiles using the empty square. The goal is to reach from
+one state of the puzzle to another.

@@ -1,0 +1,8 @@
+Abres la puerta de la habitacion, la cual en realidad resulta ser tu habitacion.
+No recuerdas haber cerrado tu habitacion con llave, en realidad 
+por que lo harias?. Debio ser alguien mas, pero en ese caso 
+como y por que lo hizo ese individuo o cosa?
+STOP
+0
+Recamara
+none

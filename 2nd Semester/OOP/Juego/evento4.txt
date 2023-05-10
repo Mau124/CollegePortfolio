@@ -1,0 +1,6 @@
+Estas en la sala de estar, pero no parece que el sonido provenga 
+desde esta habitacion.
+STOP
+0
+Sala de estar
+none
